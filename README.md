@@ -68,7 +68,7 @@ The annotation, curated neuropeptide and receptor sets, ranked predicted complex
 
 If you use this code or the associated CricketBase resource, please cite:
 
-Margaretha F, Sakamoto M, Seike H, Nagata S, Nakamura Y, Mochizuki T. A comprehensive sequence- and structure-based resource for the neuropeptide-receptor interactome of the non-model insect *Gryllus bimaculatus*. *Nucleic Acids Research* (in preparation).
+Margaretha F, Sakamoto M, Seike H, Nagata S, Nakamura Y, Mochizuki T. A comprehensive sequence- and structure-based resource for the neuropeptide-receptor interactome of the non-model insect *Gryllus bimaculatus*. (in preparation).
 
 ```bibtex
 @article{margaretha_cricketbase,
