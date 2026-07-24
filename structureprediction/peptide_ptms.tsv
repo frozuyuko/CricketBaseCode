@@ -1,0 +1,116 @@
+# peptide	sequence	pyroglutamate	disulfides	amidate_cterm
+acp	QITFSRDWNA	1		no
+agatoxin_like_peptide_1	SSLIYLF			no
+agatoxin_like_peptide_2	ACIRRGGNCDHRAKDCCYNSACRCNLWGANCRCQRMGLFQKWG			no
+akh	QVNFSTGW	1		yes
+allatotropin	GFKNVALSTARGF			yes
+ast_a_1	LYDFGV			yes
+ast_a_10	MAGSRFNFGL			yes
+ast_a_11	GPDHRFAFGL			yes
+ast_a_12	SLHYGFGI			yes
+ast_a_13	PYSFGL			yes
+ast_a_14	VPMYDFGI			yes
+ast_a_2	LPVYNFGL			yes
+ast_a_3	AGGRQYSFGL			yes
+ast_a_4	AGGRQYGFGL			yes
+ast_a_5	DRLYSFGL			yes
+ast_a_6	SRPFGFGL			yes
+ast_a_7	AGMYSFGL			yes
+ast_a_8	AQHQYSFGL			yes
+ast_a_9	GEGRMYSFGL			yes
+ast_b_1	AWRDLSGGW			yes
+ast_b_10	DPGWNNLKGLW			yes
+ast_b_11	VEANKWNRLSAVW			yes
+ast_b_2	AWNNLGSAW			yes
+ast_b_3	GWRDLNGGW			yes
+ast_b_4	GWQDLNGGW			yes
+ast_b_5	GWQNLQGSW			yes
+ast_b_6	AWDQLRPGW			yes
+ast_b_7	AWERFHGSW			yes
+ast_b_8	AWKNLGSAW			yes
+ast_b_9	GDWASFRGSW			yes
+ast_c	QIRFHQCYFNPISCF		7-14	no
+ast_cc	VYWRCYFNAVTCF		5-12	no
+ast_ccc	SYWKQCAFNAVSCF		6-13	no
+capa_1	FKAFPRV			yes
+capa_2	QAGLFPFPRV			yes
+capa_3	QGLIPFPRV			yes
+ccap	PFCNAFTGC		3-9	yes
+cchamide1	SCLSYGHSCWGAH		2-9	yes
+cchamide2	GCSAFGHSCFGGH		2-9	yes
+cnmamide	MKSYSMSLCLFKICNM		9-14	yes
+corazonin	QTFQYSRGWTN	1		yes
+crf_like_dh44	TGAQSLSIVAPLDVLRQRLMNELNRRRMRELQGNRIQQNRQLLTSI			yes
+ct_like_dh31	ALDLGLSRGFSGSQAAKHLMGLAAANYAGGP			yes
+dh_pban_1	QINFTPRL	1		yes
+dh_pban_10	PQELASGMWFGPRM			yes
+dh_pban_11	GPDSPEGMWFGPRL			yes
+dh_pban_12	AGGGGAGGNGGGGDLGGAGDNDGMWFGPRL			yes
+dh_pban_2	APPFAPRL			yes
+dh_pban_3	ALAPGALGAASAGVLPFAPRL			yes
+dh_pban_4	SPVDGASAAGGMWFGPRM			yes
+dh_pban_5	AAGEDRNQASSGMWFGPRM			yes
+dh_pban_6	ATSAEEQPFSPGMWFGPRM			yes
+dh_pban_7	QLAAGMWFGPRM			yes
+dh_pban_8	EHDLSSGMWFGPRM			yes
+dh_pban_9	EHDLSSGMWFGPRM			yes
+eclosion_hormone	DPAAAAAVGLCVRNCAQCKKMFGPYFEGQLCADSCVKFKGKLVPDCEDFASIAPFFNKLE		11-15,18-31,35-46	no
+elevenin	VDCRKFVFAPMCRGVAA		3-12	no
+eth_1	DDSGPFFIKASKSVPRI			yes
+eth_2	GDFYIKAASKSVPRM			yes
+eth_3	GPAETPGAGSAVVPLN			yes
+fmrfamide_1	AARDNFLRF			yes
+fmrfamide_10	DRAASNFFRL			yes
+fmrfamide_11	WKMADLNFIRL			yes
+fmrfamide_12	QGSNFIRL			yes
+fmrfamide_2	APRDNFLRF			yes
+fmrfamide_3	ASRDNFLRF			yes
+fmrfamide_4	APRDNFVRF			yes
+fmrfamide_5	APRDNFVRF			yes
+fmrfamide_6	ANQDNFLRF			yes
+fmrfamide_7	AGKDNFLRF			yes
+fmrfamide_8	AGRDNFLRF			yes
+fmrfamide_9	DRAASNFFRL			yes
+idlsr_like_peptide	IDLSRLYGHLSA			no
+inotocin	CMIINCPRG		1-6	yes
+itg_like_peptide_1	WGGLFNRFSPEMLSNLGYGGHGGYRASSLLNRYAASPAEALQELQEAAAAEEEPCY			no
+itg_like_peptide_2	CTANEHCCPGSVCVDMDGLVGSCLFAYGLKQGELC			no
+itg_like_peptide_3	DDDCETGLLCADGASGRTCQPPASSHKHYGEDCAMSSDCDAAKGLCCQLQ			no
+itg_like_peptide_4	HRQAPRKVCSYYKDPLICIGPVAAGLVRDDVQRTAGE		9-18	no
+itp_itpl	SFFDLQCKGVYDKSIFARLDRICEDCYNLFREPQLHSLCRKNCFTTDYFKGCLDVLLLQDEMDKIQTWIKQLHGADPGV			no
+leucokinin_1	AYFSPWG			yes
+leucokinin_2	SLPFSSWG			yes
+leucokinin_3	AFHSWG			yes
+leucokinin_4	KTKFYPWG			yes
+leucokinin_5	SGADFYPWG			yes
+myosuppressin	QDVDHVFLRF	1		yes
+natalisin_1	DGASSGSSFEEPFWAAR			yes
+natalisin_2	YWPQPRETSIEEPFWAAR			yes
+natalisin_3	APSEDAWSR			yes
+natalisin_4	AGVDAPRWR			yes
+natalisin_5	QVESVEEPFWAAR			yes
+natalisin_6	GPADSLSVEEPFWAAR			yes
+natalisin_7	GASVELDPFWAAR			yes
+npf1a_1	APAAAPAQDIERAMEALKYLQELDRYYSQVARPRF			yes
+npf1a_2	YSQVARPRF			yes
+npf1b	DNLYLKMLQLQTLDRIYAPRTRPRF			yes
+nplp1_1	GLQAALAPAPNPLGIP			yes
+nplp1_2	YVGALARGGQLP			yes
+nplp1_3	SLASLARGGQLP			yes
+nplp1_4	NIGSLARGFNLPPP			yes
+nplp1_5	SAASLMQHGLPL			yes
+npp1	NWYSELTSMLACPPCEADSCDVDPLTCEHGTARDHCQRLVCAKGPGERCGGANGILGVCAESLSCRCYRCTGCAGNPLQCFRIVGASCGI			no
+npp2	SPLCPPCEGGSCDVDPADCRHGVVRDHCGRQVCAKGPGQRCGGKGDLLGRCGEGMHCKCNRCAGCSLATLECDLSEFLCLS			no
+orcokinin_1	NFDKFDRLSLNSLV			no
+orcokinin_2	NFDEIDRTGFDSFV			no
+orcokinin_3	NFNEIDSTGFDNFI			no
+pdf	NSEIINSLLGLPKVLNDA			yes
+proctolin	RYLPT			no
+ryamide_1	AGGPGAFYPSGRY			yes
+ryamide_2	SGVMLPRADRFFMGSRY			yes
+sifamide	PPFNGSIF			yes
+snpf_1	SNRSPSLRLRF			yes
+snpf_2	SLRLRF			yes
+sulfakinin_1	QSDDYGHMRF	1		yes
+sulfakinin_2	EPFDDYGHMRF	1		yes
+trissin	DACDICGRECMGSCGDTRTFVTCCYNYL		3-6,10-14,23-24	no
