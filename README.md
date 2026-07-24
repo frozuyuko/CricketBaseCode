@@ -78,5 +78,3 @@ Margaretha F, Sakamoto M, Seike H, Nagata S, Nakamura Y, Mochizuki T. A comprehe
   url     = {https://cricket.annotation.jp}
 }
 ```
-
-Update the journal, volume, DOI, and BibTeX entry above once the manuscript is accepted.
